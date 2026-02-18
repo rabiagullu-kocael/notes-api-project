@@ -111,7 +111,7 @@ Bu tasarım veri tekrarını önler ve ölçeklenebilirliği artırır.
 
 ---
 
-## 🚀 API Endpoint'leri
+##  API Endpoint'leri
 <img width="1919" height="841" alt="genel" src="https://github.com/user-attachments/assets/5b69b27b-ae99-4f1a-a9f3-d69c4fdc0d40" />
 
 ---
@@ -188,7 +188,7 @@ Tüm etiketleri ve kullanım sayılarını listeler.
 
 ---
 
-## 🔥 Aggregation Kullanımı
+##  Aggregation Kullanımı
 
 Etiketlerin kaç notta kullanıldığını hesaplamak için MongoDB Aggregation Pipeline kullanılmıştır.
 
@@ -259,7 +259,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🎯 Sonuç
+##  Sonuç
 
 Bu proje:
 
